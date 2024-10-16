@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+yfinance
+numpy
+networkx
+scipy
+scikit-learn
+librosa
